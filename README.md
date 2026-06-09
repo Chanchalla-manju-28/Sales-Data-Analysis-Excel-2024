@@ -5,6 +5,9 @@ An end-to-end **Sales Data Analysis** project built entirely in **Microsoft Exce
 sales transactions across 12 months (January–December 2024). The project includes data cleaning, 
 calculated fields, Pivot Table analysis, and an interactive KPI Dashboard.
 
+## 📸 Dashboard Preview
+![Sales Dashboard](SalesAnalysisDashboard.png)
+
 ---
 
 ## 📁 Dataset Details
