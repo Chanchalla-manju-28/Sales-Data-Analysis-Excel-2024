@@ -75,7 +75,7 @@ calculated fields, Pivot Table analysis, and an interactive KPI Dashboard.
 2. Open in **Microsoft Excel** (2016 or later recommended)
 3. Navigate to the **Dashboard** sheet to view KPIs
 4. Use the **Data** sheet to explore Pivot Table summaries
-5. Filter by Region, Category, or Month using slicers (if enabled)
+5. Filter by Region, Category, or Month using slicers
 
 ---
 
